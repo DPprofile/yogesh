@@ -9,7 +9,7 @@
     <mata name="robots" content="INDEX, FOLLOW">
     <title>SARKAR</title>
     <!--this is how include external css-->
-    <link rel="stylesheet"href=harry.css>
+    <link rel="stylesheet"href=Harry.css>
 
     <!--this is how include external css-->
     <script src="harry.js"></script>
